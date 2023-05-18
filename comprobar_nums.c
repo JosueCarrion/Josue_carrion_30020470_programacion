@@ -1,3 +1,10 @@
+/* Escrinir un algoritmo que pida por teclado n numeros enteros, cada uno de ellos debera ser introducidos.
+Calcular:
+1) cuantos son pares e impares
+2) cuantos ceros se han introducido por teclado
+3) cuantos son primos
+*/
+
 #include <stdio.h>
 int num_impar(int num);
 int num_primos(int num);
